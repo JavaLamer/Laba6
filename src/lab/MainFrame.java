@@ -25,6 +25,7 @@ public class MainFrame extends JFrame {
 
     private JMenuItem pauseMenuItem90;
 
+
     private boolean paused = true;
     // Поле, по которому прыгают мячи
     private Field field = new Field();
